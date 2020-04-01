@@ -32,6 +32,24 @@ h1, h2, h3 {
     border:none;
 }
 
+.navbar-default .navbar-brand {
+    color: purple;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: purple;
+}
+
+.navbar-default .navbar-brand {
+    color: purple;
+    opacity: 0.75;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: purple;
+    opacity: 0.75;
+}
+
 .home-callout {
     color: purple;
     margin-top: -20px;
